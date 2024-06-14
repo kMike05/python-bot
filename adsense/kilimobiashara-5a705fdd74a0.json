@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "kilimobiashara",
+    "private_key_id": "5a705fdd74a03b5109491c7eb5d1af289fce7f75",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTBVeOWMeJZTiK\nDC1clEpFsSRC/vyAdElWWseMKA/CKdjMgXwSnVdR8i8viLkQFPtgpS7lea754e5b\n+d/rQR/ac+9Y5pC/Y8FcTzJUj0bth1DXb/ntJpiyheAy2a2WJV/7mAG1b1hkAvaZ\n1SOQ5AzJzJXFbhu8R9Ft75XbUU4V7vUTzA2F6qWlW9ZFdu4D63Mezq3q1b0PuXAh\nZbf42mQ9SFd8IN0ouwpm+lHamX4Kg9unljswun7PdXZdi8EEdi0PtC7eUdkMaz4f\ntosMW3hxHGS4mbr65i0/xXlcRi7jVSL6yQvuo/DrEw+X82b4QEyTI/Im/VdEd/TF\n3ktKdMFpAgMBAAECggEABY3lcRS7I82rQE7zvrUUg2MXPkAx6zukVoaLLBA94fFy\nCGf8GQ1VKA4E2e5yWI8E0tVmN5oNVfxxZrBcCXgsW3ajvSZMdw0sIL7g50LiLgxa\nv2DuJiTW7hQCA7ShEgunzBqDKQBmRjOhxAjNJ9oo0AL3ijvMtRb61zbwLdalBIS6\nY/WTVivtai2bBBLmHdqZTh92C6WO3lNYzHQpqYWhkSiO5Z2y/OLqktbqNMdqk2ge\n3t/nRVeMOvCYkRHkq1wi99Qhw5AXfoaQtdnrhh1yrZMAojdl+gIu71Ot2dks3QuZ\nrwKeJw5LaDWjl9rfQ0PBb+b8NN5E4DSan+o+Y/oDUQKBgQD1HDRSyh0VPCGQNkcO\nv69BQ7rVltgZJc5QZkp5pxGLLdZZrkQchPAdkD6mAkzwoP6idBANBBFfKydS/5Z+\nn8XozFHIqMjyXWXZJlAc8YYfp+DhdCKPJ2jgE18uUTCMDmBAlgTjXPH66QuCv3AN\nVbW7OFRGKUeZixyae8tu0LPnDQKBgQDcZWsD72i1pS45WBEfthrHo3XEkvlCk6mo\nlzKsobtUarI+L7i/qZhAIXUF+QEcDnG9unVjkGqPUatDBuyKxxxB5NXFYe30/Mbh\nbMQquS/BtKbHgGqtLPRU0Jf7kWNLiVllMml1V+YhkH4B3VdnkJTaH9TZksmEXnYX\nSAP5rciszQKBgQDv97b6PsoOWhp598nFlMDd4pNuPQpARJUifaL4SyqP2kZ68nPY\ngAYcy3WqTaJKCzSAk6SLOapQRA1x4qzSN1YpPq/rBeQF9I6b9DiGvacUIuW1lF+p\nS2oPxqduzyn6VLDDSpxqhDqb7cDJNudbBsivDMzlC9D/cASG8iAO0+DtmQKBgAwG\nnKhCT/xZXwRSAd0xGpT6HlrzihZP6FoCpgk1aftZNxCdmf8bSet15+TDiYP2Zc5s\nditQnf/j/OxTXGTWKHyP9/olNc7AXDnArZOHN0vih5crMqbwZQSbvS9E554fiHk1\nHvwAJ9Z9A+MmKLbF9NlSE1Mr50MJxHfQvibJjMGhAoGBAMmsKDegy6PWxl2atIeC\ntzCsG6Qn8+LcYM9Ug0i9ZYVPSYvl4Ij/iNlx9fGFghYya7kF9OdIi9xVOJxqCmjt\nzf/IBOXmlxm/fF+LrPd2fB+UYJZulUztF8tq2djrnY0DtR2FFsGUPw25fygBZvwc\nipkmJ0+Cm9KvWshRTkjbGckR\n-----END PRIVATE KEY-----\n",
+    "client_email": "kilimobiashara@kilimobiashara.iam.gserviceaccount.com",
+    "client_id": "107384640597901480108",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kilimobiashara%40kilimobiashara.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
